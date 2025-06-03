@@ -66,7 +66,7 @@ export default function ThankYouPage() {
                 </svg>
               </div>
               <p>
-                <strong>Day 5:</strong> Free 15-min site audit call opportunity
+                <strong>Day 5:</strong> Free 30-min site audit call opportunity
               </p>
             </div>
           </div>
