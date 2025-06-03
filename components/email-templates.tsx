@@ -82,7 +82,7 @@ export const emailTemplates = {
   },
 
   consultation: {
-    subject: "Need Help? Book a Free 15-Min Site Audit Call",
+    subject: "Need Help? Book a Free 30-Min Site Audit Call",
     html: `
       <div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto;">
         <h2>Hi {{name}},</h2>
@@ -97,10 +97,10 @@ export const emailTemplates = {
         <p>Now you might be wondering: <em>"How would this work for MY specific projects?"</em></p>
         
         <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center;">
-          <h3 style="margin-top: 0;">Free 15-Minute Site Audit Call</h3>
+          <h3 style="margin-top: 0;">Free 30-Minute Site Audit Call</h3>
           <p>I'll review your current process and show you exactly where reality capture could save you the most money.</p>
           
-          <a href="https://calendly.com/your-calendar-link" 
+          <a href="https://calendly.com/six1five-studio" 
              style="background-color: #16a34a; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; display: inline-block; font-weight: bold; margin: 10px 0;">
             📅 Book Your Free Audit Call
           </a>
@@ -119,7 +119,7 @@ export const emailTemplates = {
         <p>These calls typically save developers $20,000+ on their next project. Worth 15 minutes?</p>
         
         <div style="text-align: center; margin: 30px 0;">
-          <a href="https://calendly.com/your-calendar-link" 
+          <a href="https://calendly.com/six1five-studio" 
              style="background-color: #16a34a; color: white; padding: 15px 30px; text-decoration: none; border-radius: 8px; display: inline-block; font-weight: bold;">
             Yes, Book My Free Audit Call
           </a>
